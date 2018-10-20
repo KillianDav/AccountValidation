@@ -1,0 +1,9 @@
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\bin\Debug\netstandard2.0\AccountValidationService.deps.json
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\bin\Debug\netstandard2.0\AccountValidationService.dll
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\bin\Debug\netstandard2.0\AccountValidationService.pdb
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.csprojAssemblyReference.cache
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.csproj.CoreCompileInputs.cache
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.AssemblyInfoInputs.cache
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.AssemblyInfo.cs
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.dll
+C:\Users\Killian\Documents\Visual Studio 2017\Projects\AccountValidator\AccountValidationBL\obj\Debug\netstandard2.0\AccountValidationService.pdb
